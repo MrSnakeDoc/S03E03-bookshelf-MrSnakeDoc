@@ -1,0 +1,24 @@
+{
+  "name": "s03e03-bookshelf-mrsnakedoc",
+  "version": "1.0.0",
+  "description": "Aujourd'hui nous avons vu comment nous pouvions créer un module, afin de compartimenter notre code. Nous avons également découvert qu'il existait une infinité de modules déjà existants, récupérables, et installable via npm. Ici nous allons utiliser l'un des modules les plus populaires : dayjs !\r Il va vous permettre de jouer avec les dates en faisant des calculs et/ou des formatages.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-XIII/S03E03-bookshelf-MrSnakeDoc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-XIII/S03E03-bookshelf-MrSnakeDoc/issues"
+  },
+  "homepage": "https://github.com/O-clock-XIII/S03E03-bookshelf-MrSnakeDoc#readme",
+  "dependencies": {
+    "dayjs": "^1.10.7"
+  }
+}
